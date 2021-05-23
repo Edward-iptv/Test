@@ -1,0 +1,121 @@
+#NAME IP TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/8388
+#DESCRIPTION BE: EEN FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3668
+#DESCRIPTION BE: EEN HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/8392
+#DESCRIPTION BE: VTM FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3673
+#DESCRIPTION BE: VTM HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/8389
+#DESCRIPTION BE: VTM 2 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3669
+#DESCRIPTION BE: VTM 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/8391
+#DESCRIPTION BE: VTM 3 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3675
+#DESCRIPTION BE: VTM 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/11834
+#DESCRIPTION BE: VTM 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3670
+#DESCRIPTION BE: CANVAS  HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/8390
+#DESCRIPTION BE: PLAY 4 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3671
+#DESCRIPTION BE: PLAY 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3672
+#DESCRIPTION BE: PLAY 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/17653
+#DESCRIPTION BE: PLAY 6 FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3674
+#DESCRIPTION BE: KETNET
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/61993
+#DESCRIPTION BE: La Une FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/30513
+#DESCRIPTION BE: La Une HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/61994
+#DESCRIPTION BE: TIPIK FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/379
+#DESCRIPTION BE: TIPIK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/61995
+#DESCRIPTION BE: LA TROIS FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/380
+#DESCRIPTION BE: LA TROIS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/61997
+#DESCRIPTION BE: RTL-TVI FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/377
+#DESCRIPTION BE: RTL-TVI HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/25807
+#DESCRIPTION BE: CLUB RTL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/61996
+#DESCRIPTION BE: PLUG RTL FHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/382
+#DESCRIPTION BE: PLUG RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/11837
+#DESCRIPTION BE: AB 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/2083
+#DESCRIPTION BE: AB EXPLORE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12658
+#DESCRIPTION BE: ATV Antwerpen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12659
+#DESCRIPTION BE: Canal C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12654
+#DESCRIPTION BE: Canal Zoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12660
+#DESCRIPTION BE: Evenaar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12653
+#DESCRIPTION BE: Ketop12
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12657
+#DESCRIPTION BE: NOTELE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12655
+#DESCRIPTION BE: NRJ Hits
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12656
+#DESCRIPTION BE: TeleSambre Charleleroi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12652
+#DESCRIPTION BE: TVO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/25808
+#DESCRIPTION BE: VTM Kids Jr
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/12661
+#DESCRIPTION BE: VTM Nieuws
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/11836
+#DESCRIPTION BE: BX1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/11833
+#DESCRIPTION BE: Kadet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/11835
+#DESCRIPTION BE: VTM Kazoom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/17654
+#DESCRIPTION BE: Een HD BKUP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/17649
+#DESCRIPTION BE: PLAY 4 HD BKUP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/17650
+#DESCRIPTION BE: PLAY 5 BKUP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/17652
+#DESCRIPTION BE: VTM HD BKUP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/17648
+#DESCRIPTION BE: VTM 2 BKUP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/17651
+#DESCRIPTION BE: VTM 3 BKUP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/17646
+#DESCRIPTION BE: VTM 4 BKUP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3677
+#DESCRIPTION BE: TVL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/3676
+#DESCRIPTION BE: Chamber LUX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/2628
+#DESCRIPTION BE: ZES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/2626
+#DESCRIPTION BE: LN 24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/25804
+#DESCRIPTION BE: Ketnet Junior
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/25806
+#DESCRIPTION BE: Télé MB HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/25805
+#DESCRIPTION BE: Series HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/2627
+#DESCRIPTION BE: RTL Lux
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/30511
+#DESCRIPTION BE: Bel RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/30512
+#DESCRIPTION BE: Vedia HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iconnect10.com%3a8080/alejo/alejo123/14382
+#DESCRIPTION BE: VOO Sport 1
